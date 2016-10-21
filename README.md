@@ -1,2 +1,2 @@
 # reactnative
-This is the companion git repository for the course Build Apps with React Native.
+Repository for the course Build Apps with React Native
