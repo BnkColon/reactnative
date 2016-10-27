@@ -9,3 +9,7 @@ What am I going to get from this course?
 * Learn the differences between using React in a browser and on a mobile device
 * Discover mobile design patterns used by experienced engineers
 
+Projections:
+- Learn JavaScript
+- Learn React Native
+- Elaborate my own application
